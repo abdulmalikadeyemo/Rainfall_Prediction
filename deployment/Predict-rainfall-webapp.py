@@ -27,7 +27,7 @@ def main():
     rhum_x = st.number_input('Enter the relative humidity (rhum_x)')
     rhum_y = st.number_input('Enter the relative humidity (rhum_y)')
     rhum = st.number_input('Enter the relative humidity (rhum)')
-    slp = st.number_input('Enter the Mean sea level pressure (mm)')
+    slp = st.number_input('Enter the Mean sea level pressure (slp)')
     tmp = st.number_input('Enter Temperature')
     uwnd_x = st.number_input('Enter the x component of the wind (uwnd_x)')
     uwnd = st.number_input('Enter U-wind')
